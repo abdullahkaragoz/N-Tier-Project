@@ -1,0 +1,174 @@
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\abdullah.karagoz\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll.config
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll.config
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll.config
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormEmployees.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll.config
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormEmployees.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe.config
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.WinUI.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.BLL.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.DAL.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.BLL.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.DAL.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\bin\Debug\Northwind.Helpers.dll.config
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csprojAssemblyReference.cache
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormCategory.resources
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormEmployees.resources
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.FormProducts.resources
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Forms.MainForm.resources
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.Properties.Resources.resources
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.GenerateResource.cache
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.csproj.CopyComplete
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.exe
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.WinUI\obj\Debug\Northwind.WinUI.pdb

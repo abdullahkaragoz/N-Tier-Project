@@ -1,0 +1,41 @@
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Documents\01_BA_BilgeAdam\02_809420_203_SabahSinifi\Day053\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\abdullah.karagoz\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\packardBell\OneDrive\Bilge Adam\Maraton Teslim\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\Day053\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\Desktop\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\Abdullah\OneDrive\N-Tier Project\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
